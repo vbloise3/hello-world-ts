@@ -8,6 +8,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 /**
  * Created by vincebloise on 6/11/16.
  */
+///<reference path="./node_modules/angular2/typings/browser.d.ts"/>
 var platform_browser_dynamic_1 = require('@angular/platform-browser-dynamic');
 var core_1 = require('@angular/core');
 var HelloWorldComponent = (function () {
