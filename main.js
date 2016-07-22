@@ -13,7 +13,7 @@ var platform_browser_dynamic_1 = require('@angular/platform-browser-dynamic');
 var core_1 = require('@angular/core');
 var HelloWorldComponent = (function () {
     function HelloWorldComponent() {
-        this.name = 'Angular 2';
+        this.name = 'Angular 2, mo fo!!';
     }
     HelloWorldComponent = __decorate([
         core_1.Component({
